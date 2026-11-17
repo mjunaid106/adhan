@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adhan.ejaad.co.uk/sitemap.xml
